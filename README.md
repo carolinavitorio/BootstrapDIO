@@ -4,6 +4,12 @@ Um site moderno e responsivo para uma cafeteria fictícia, desenvolvido em **HTM
 O objetivo é apresentar o cardápio, produtos e informações do café de forma elegante e adaptada a diferentes dispositivos (desktop e mobile).
 
 ---
+## 🔗 Acesse o Projeto
+
+O site está disponível em:  
+👉 [Coffee Shop - Visualizar Página](https://carolinavitorio.github.io/BootstrapDIO/)
+
+---
 
 ## 🖼️ Layout
 
